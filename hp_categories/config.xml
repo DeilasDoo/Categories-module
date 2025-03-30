@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>hp_categories</name>
+    <displayName><![CDATA[Homepage Categories]]></displayName>
+    <version><![CDATA[1.0.3]]></version>
+    <description><![CDATA[Displays two category columns on homepage.]]></description>
+    <author><![CDATA[Dale]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>
