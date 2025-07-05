@@ -1,5 +1,5 @@
 {**
- * Copyright © 2025 Luke
+ * Copyright © 2025 Deilas
  * All rights reserved.
  *
  * NOTICE OF LICENSE
@@ -12,10 +12,8 @@
  * obtain it through the world-wide-web, please send an email
  * so we can send you a copy immediately.
  *
- * DISCLAIMER
- *
- * @author    Luke <luxlike6@gmail.com>
- * @copyright 2025 Luke
+ * @author    Deilas <hi@deilas.eu>
+ * @copyright 2025 Deilas
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
 <div class="homepage-categories container-fluid w-100">
